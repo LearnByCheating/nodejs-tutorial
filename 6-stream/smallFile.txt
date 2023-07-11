@@ -1,0 +1,4 @@
+This is a small text file of just a few lines.
+This is the second line. 
+This is the third line.
+This is the last line.
