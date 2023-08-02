@@ -14,8 +14,8 @@ View the HTML page at http://localhost:3000
 
 ---
 # Build a Basic Video Streaming Web App
-Create a project folder called stream-video.
-From the stream-video folder initiate a Node project:
+Create a project folder called stream-video-webapp.
+From the stream-video-webapp folder initiate a Node project:
 
 `npm init -y`
 

@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-// hugefile.txt is 2.5MB of text which means it holds 2.5 million characters
+// hugefile.txt is 2.7MB of text which means it holds 2.7 million characters
 const readStream = fs.createReadStream('hugefile.txt', 'utf8');
 
 let count = 0;
